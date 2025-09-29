@@ -72,7 +72,7 @@ export function Hero() {
                 </div>
 
                 {/* Purple Signature - EXACTLY like reference, spanning across the circle */}
-                <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-30">
+                {/* <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-30">
                   <motion.div
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
@@ -83,7 +83,7 @@ export function Hero() {
                     <span>Amos</span>
                     <span>Mwongela</span>
                   </motion.div>
-                </div>
+                </div> */}
 
                 {/* Skill Badges - positioned exactly like reference */}
                 <motion.div
