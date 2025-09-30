@@ -46,8 +46,8 @@ const faqs = [
     answer: 'Yes! I work with clients globally across different time zones. I use modern communication tools to ensure smooth collaboration regardless of location.'
   },
   {
-    question: 'What&apos;s your approach to project management?',
-    answer: 'I follow agile methodologies with regular check-ins, milestone reviews, and continuous communication. You&apos;ll have full visibility into project progress throughout development.'
+    question: 'What is your approach to project management?',
+    answer: "I follow agile methodologies with regular check-ins, milestone reviews, and continuous communication. You'll have full visibility into project progress throughout development."
   }
 ]
 
