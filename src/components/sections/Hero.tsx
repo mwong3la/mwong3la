@@ -78,7 +78,7 @@ export function Hero() {
                   transition={{ duration: 0.6, delay: 1.2 }}
                   className="absolute top-8 left-8 bg-black text-white px-4 py-2 rounded-full text-sm font-medium z-20"
                 >
-                  Developer
+                  Engineer
                 </motion.div>
 
                 <motion.div
@@ -87,7 +87,7 @@ export function Hero() {
                   transition={{ duration: 0.6, delay: 1.4 }}
                   className="absolute top-12 right-4 bg-black text-white px-4 py-2 rounded-full text-sm font-medium z-20"
                 >
-                  Engineer
+                  Developer
                 </motion.div>
               </motion.div>
 
@@ -102,12 +102,12 @@ export function Hero() {
                   <strong>5+ Years of Expertise</strong>, Full-Stack
                   Software Engineer in Kenya, Africa.
                 </div>
-                <div className="text-sm text-gray-600 underline mb-4">
+              
+                {/* LET'S DISCUSS Badge */}
+                <div className="flex items-center justify-between">
+                    <div className="text-sm text-gray-600 underline mb-4">
                   amosmwongelah@gmail.com
                 </div>
-
-                {/* LET'S DISCUSS Badge */}
-                <div className="flex justify-end">
                   <div className="bg-black text-white w-16 h-16 rounded-full flex items-center justify-center">
                     <div className="text-xs font-bold text-center leading-tight">
                       LET&apos;S<br />DISCUSS
